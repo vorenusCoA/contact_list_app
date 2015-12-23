@@ -1,5 +1,5 @@
 {
-  "name": "Contact list app",
+  "name": "contact_list_app",
   "version": "1.0.0",
   "description": "A contact list for practice MEAN Stack",
   "main": "index.js",
